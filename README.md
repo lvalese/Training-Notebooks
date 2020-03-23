@@ -10,8 +10,8 @@ As a dedicated financial professional working for almost 15 years at a multinati
 Follower of the "Lifelong Learner Philosophy", I was always interested in developing both my hard (technical) and soft (behavioral) skills, but I've never thought I would be interested in any programming language. But here I am! Starting this repository.
 
 The initial idea for this Training-Notebooks repository, is to create one notebook for each of the main basic functions of Python, as below:
-
-* **Mathematical functions**
+ 
+* **Mathematical functions:** https://bit.ly/3dpc0Gg
 * **Types**
 * **Expressions and Variables**
 * **Strings**
