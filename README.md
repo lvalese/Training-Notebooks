@@ -31,7 +31,7 @@ This notebooks will have two main purposes:
 Saying that, you will probably see in my noteebooks _inspired_ or _based_ exercises absorbed in the last months of hard study!
 I will also try to insert as many #comments as possible in my Notebooks to help you as a beginner student to understand the functioning of Python.
 
-Suggestions, critics or doubt could be sent to my personal e-mail: _lvalese@gmail.com_
+Suggestions, criticism or doubt could be sent to my personal e-mail: _lvalese@gmail.com_
 
 Good studies to all of us!
 Rgds,
