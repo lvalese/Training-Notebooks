@@ -13,7 +13,7 @@ The initial idea for this Training-Notebooks repository, is to create one notebo
  
 * **Mathematical functions:** https://bit.ly/3dpc0Gg
 * **Types:** https://bit.ly/2xhPPBf
-* **Variables:**
+* **Variables:** https://bit.ly/3dtOHLv
 * **Strings**
 * **Lists and Tuples**
 * **Dictionary**
