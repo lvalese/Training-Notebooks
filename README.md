@@ -15,7 +15,8 @@ The initial idea for this Training-Notebooks repository, is to create one notebo
 * **Types:** https://bit.ly/2xhPPBf
 * **Variables:** https://bit.ly/3dtOHLv
 * **Strings functions:** https://bit.ly/2WMAvar
-* **Lists and Tuples**
+* **Lists:** https://bit.ly/2JjOPiG
+* **Tuples:**
 * **Dictionary**
 * **Sets**
 * **Conditions and Branching**
