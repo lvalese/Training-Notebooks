@@ -18,7 +18,7 @@ The initial idea for this Training-Notebooks repository, is to create one notebo
 * **Lists:** https://bit.ly/2UEjHjk
 * **Tuples:** https://bit.ly/2UIfif1
 * **Dictionaries:** https://bit.ly/3b3gn8a
-* **Sets**
+* **Sets:** https://bit.ly/3b7kvo0
 * **Conditions and Branching**
 * **Loops**
 * **Functions**
