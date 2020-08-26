@@ -11,14 +11,14 @@ Follower of the "Lifelong Learner Philosophy", I was always interested in develo
 
 The initial idea for this Training-Notebooks repository, is to create one notebook for each of the main basic functions of Python, as below:
  
-* **Mathematical functions:** https://bit.ly/3dpc0Gg
-* **Types:** https://bit.ly/2xhPPBf
-* **Variables:** https://bit.ly/3dtOHLv
-* **Strings functions:** https://bit.ly/2WMAvar
-* **Lists:** https://bit.ly/2UEjHjk
-* **Tuples:** https://bit.ly/2UIfif1
-* **Dictionaries:** https://bit.ly/3b3gn8a
-* **Sets:** https://bit.ly/3b7kvo0
+* **Mathematical functions:** https://bit.ly/32sV4tN
+* **Types:** https://bit.ly/3gFdxbP
+* **Variables:** https://bit.ly/2QuFKal
+* **Strings functions:** https://bit.ly/2YCXiFS
+* **Lists:** https://bit.ly/3hyGqay
+* **Tuples:** https://bit.ly/2EzR1nl
+* **Dictionaries:** https://bit.ly/3hJoLgo
+* **Sets:** https://bit.ly/32y5ng2
 * **Conditions and Branching**
 * **Loops**
 * **Functions**
